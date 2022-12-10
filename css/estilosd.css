@@ -1,0 +1,299 @@
+@import url ('https://fonts.googleapis.com/css2? family = Raleway & display = swap');
+
+
+
+*{	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f6bacb;
+	
+}
+
+.fondointernas
+{ 
+	background-color: #c198ae;
+}
+#main{ 	
+		width: 100%;
+		max-width: 1280px;
+		height: 720px;
+		background-color: ;
+		margin-left: auto;
+		margin-right: auto;
+	} 
+
+header { 
+	width:60%;
+	height:130px;
+	float: left;
+	background-color:#f191ad;
+	
+}
+.logo{
+	padding-left: 80px;
+	padding-top: 30px;
+	display: inline-block;	
+	margin-left: auto;
+	float: left;
+	
+} 
+
+nav {
+	width:40%;
+	 height:130px;
+	 float: left;
+	 background-color:#f191ad;
+
+	}
+
+nav li {
+		display: inline-block;	
+		list-style: none;
+		margin-left: 16px;
+		padding-top:40px;
+		padding-left: 40px;
+
+	}
+
+    nav a {
+	    color: white;
+	    font-family: 'Raleway', sans-serif;
+	 	font-size: 15px;
+		text-decoration: none;
+		padding-top: 20px;
+		padding-bottom: 8px;
+		padding-right: 15px;
+		padding-left:  8px;
+	}
+
+section{
+	background-size: cover;
+		width:auto;
+		height:530px;
+	    clear: both;
+	    background-color:#e40f7e;
+}
+
+#intro{
+	width: 20%;
+	height: 200px;
+ 	float: right;
+	font-family: 'Raleway', sans-serif;
+ 	padding-right:20px;
+ 	color: #ffffff;
+
+ 	}
+
+ .fotomicro
+{
+	width: 80%;
+	height: 500px;
+	float: right;
+	align-content: center;
+	margin-left: 30px;
+	padding-top: 5px;
+
+}
+
+#quinto{
+	width: 50%;
+	height: 100px;
+	float: left;
+	font-family: 'Raleway', sans-serif;
+	color:#ffffff;
+	font-size: 40px;
+	font-weight:normal;
+	align-content: center;
+	margin-left: 30px;
+	padding-top: 5px;
+
+
+}
+
+
+.hola{
+	width: 250%;
+	height: 60px;
+	float: right;
+	font-family: 'Raleway', sans-serif;
+	color: #c90076;
+	font-size: 30px;
+	font-weight:normal;
+	margin-left: 30px;
+	padding-top: 2px;
+
+}
+
+.fotomicro
+{
+	width: 20%;
+	padding-left: 200%;
+	padding: 50px; 
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+
+}
+
+.pdf{
+	
+	width: 430%;
+	height: 200%;
+	float: right;
+	border-radius: 8px;
+	border-color: #ffffff;
+	margin-left: 100px;
+	margin-right: 200px;
+	
+	
+}
+.pdfdos{
+	width: 500%;
+	height: 180%;
+	float: right;
+	margin-left: 30px;
+	margin-right: 10px;
+}
+.titulointernas{
+	width: 400%;
+	height: 50%;
+	margin-left: 50px;
+	margin-right: 200px;
+	float: right;
+	padding: 20px; 
+	padding-top: 20px;
+	padding-right: 190px;
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+	color: #c90076;
+	font-weight:normal; 
+	
+	
+}
+.textointernas {	
+	width: 200%;
+	height: 50%;
+	float: right;
+	margin-left: 60px;
+	margin-right: 120px;
+	padding: 10px; 
+	padding-top: 10px;
+	padding-right: 30px;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+
+
+.btn{
+	width: 150px;
+	height: 50px;
+	background-color: #f99aaa;
+	color: #ffffff;
+	border-radius: 8px;
+	font-size: 20px;
+	float: left;
+
+}
+
+.alinear {
+	width: 350%;
+	height: 280%;
+	float: right; 
+	margin-left: 10px;
+	padding-top: 2px;
+	padding-right: 30px;
+	
+
+	}
+
+
+
+.alinearvideo{
+	width:20%;
+	height: 20%;
+	float: left;
+	margin-left: 80px;
+	margin-right: 70px;
+	padding: 10px; 
+	padding-top: 20px;
+	padding-right: 30px;
+	
+}
+
+
+.textoarquitectura{
+	width: 100%;
+	height: 20%;
+	float: right;
+	margin-left: 30px;
+	margin-right: 700px;
+	padding: 20px; 
+	padding-top: 5px;
+	padding-right: 30px;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-weight:normal; 
+}
+
+
+.guiafinal{
+	width: 40%;
+	height: 80px;
+	float: right;
+	padding: 15px; 
+	padding-left: 5%;
+	padding-right: 4%;
+	padding-top: 8px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight:normal; 
+	color: #ffffff;
+	align-content: inherit;
+
+}
+
+ footer{width:100%;
+		height:90px;
+		background-color:#f191ad;
+	}
+footer ul li{
+			list-style-type: none;
+			display: inline-block;
+		}
+.marca{
+			padding-left: 41px;
+			padding-top: 5px;
+			display: inline-block;	   
+		  }
+
+.nombre{
+			padding-left: 100px;
+		    color: white;
+		    text-decoration: none;
+		    font-size: 18px;
+		    font-family: 'Raleway', sans-serif;
+		    display: inline-block;
+		 }
+
+.redes{
+			padding-top: 18px;
+			padding-right:20px;
+			float: right;
+				
+			}
+.redes li {
+		 	 float: right;
+		 	 padding-left: 10px;
+		 	 display: inline-block;	
+		 
+			}
+
+ 
+
+
